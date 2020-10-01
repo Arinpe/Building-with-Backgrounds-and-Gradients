@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto&display=swap");
 
-footer {
+* footer {
   width: 100%;
   min-width: 930px;
   margin: 20px auto 25px auto;
@@ -42,13 +42,15 @@ footer {
 }
 
 main {
-    width: 100vw;
-    display: flex;
-    margin: 0;
-    padding: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
 }
 
 .mainitem {
-    width: 25%;
-    flex: 1 1 25%;
+  width: 330px;
+  height: 200px;
+  flex: 1 1 25%;
 }
