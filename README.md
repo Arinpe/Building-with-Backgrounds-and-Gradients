@@ -53,11 +53,11 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@oleinikovs](https://twitter.com/oleinikovs)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/igors-oleinikovs-17a10958/)
 
-👤 **Author2**
+👤 **Adesuyi Adetola**
 
-- GitHub: [@githubhandle]()
-- Twitter: [@twitterhandle]()
-- LinkedIn: [LinkedIn]()
+- GitHub: [@Arinpe](https://github.com/Arinpe)
+- Twitter: [@_detola_](https://twitter.com/_detola_)
+- LinkedIn: [Adesuyi Adetola](https://www.linkedin.com/in/adesuyi-adetola-7b4451111/)
 
 ## 🤝 Contributing
 
