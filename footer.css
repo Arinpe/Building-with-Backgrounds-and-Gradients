@@ -66,6 +66,9 @@ main {
 }
 
 .mainitem {
+  display: block;
+  padding-top: 2px;
+  padding-right: 2px;
   width: 25%;
   height: 200px;
   -webkit-box-flex: 1;

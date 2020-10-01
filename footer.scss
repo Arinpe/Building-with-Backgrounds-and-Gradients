@@ -56,6 +56,9 @@ main {
 }
 
 .mainitem {
+  display: block;
+  padding-top: 2px;
+  padding-right: 2px;
   width: 25%;
   height: 200px;
   flex: 1 1 25%;
