@@ -1,9 +1,35 @@
 footer {
   width: 80%;
   margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 10px;
+}
+
+.footer__right {
+  display: inline-block;
 }
 
 .footer__right ul {
   list-style-type: none;
+}
+
+.footer__right ul li {
+  display: inline-block;
+}
+
+.bottomli {
+  text-decoration: none;
+  display: inline-block;
+}
+
+.bottomli:hover {
+  text-decoration: underline;
+}
+
+.leftborder {
+  border-left: 1px solid gray;
+  padding-left: 5px;
 }
 /*# sourceMappingURL=footer.css.map */
