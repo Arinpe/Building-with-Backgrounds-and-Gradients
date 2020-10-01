@@ -1,28 +1,36 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto&display=swap");
 
-* footer {
-  width: 100%;
-  min-width: 930px;
+footer {
+  width: 80%;
+  min-width: 1195px;
   margin: 20px auto 25px auto;
   display: flex;
   font-size: 10px;
+  line-height: 1.5;
   font-family: "Roboto", "Montserrat", sans-serif;
   color: #6e6e6e;
   justify-content: center;
 }
 
 .footer__right {
-  display: inline-block;
+  display: flex;
+  padding-left: 1%;
+  text-align: left;
   ul {
     list-style-type: none;
+
     li {
       display: inline-block;
     }
   }
 }
 
+.footer__left {
+  display: inline-block;
+  padding-right: 75px;
+}
+
 .bottomli {
-  text-decoration: none;
   display: inline-block;
   color: #0088cc;
 
@@ -45,12 +53,15 @@ main {
   width: 100%;
   display: flex;
   justify-content: center;
-  margin: 0;
-  padding: 0;
 }
 
 .mainitem {
-  width: 330px;
+  width: 25%;
   height: 200px;
   flex: 1 1 25%;
+}
+
+.pbottom {
+  display: inline-block;
+  padding-top: 15px;
 }
