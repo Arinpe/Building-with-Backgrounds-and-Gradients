@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto&display=swap");
 
 footer {
   width: 100%;
@@ -6,37 +6,49 @@ footer {
   margin: 20px auto 25px auto;
   display: flex;
   font-size: 10px;
-  font-family: 'Roboto', 'Montserrat', sans-serif;
+  font-family: "Roboto", "Montserrat", sans-serif;
   color: #6e6e6e;
   justify-content: center;
 }
 
 .footer__right {
-    display: inline-block;
+  display: inline-block;
   ul {
     list-style-type: none;
     li {
-        display: inline-block;
+      display: inline-block;
     }
   }
 }
 
-.bottomli{
-    text-decoration: none;
-    display: inline-block;
-    color: #0088cc;
+.bottomli {
+  text-decoration: none;
+  display: inline-block;
+  color: #0088cc;
 
-    &:hover {
-        text-decoration: underline;
-    }
+  &:hover {
+    text-decoration: underline;
+  }
 }
 
 .leftborder {
-    border-left: 1px solid gray;
-    padding-left: 5px;
-    padding-right: 5px;
+  border-left: 1px solid gray;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
 .gap {
-    padding-right: 5px;
+  padding-right: 5px;
+}
+
+main {
+    width: 100vw;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.mainitem {
+    width: 25%;
+    flex: 1 1 25%;
 }
