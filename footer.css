@@ -76,6 +76,10 @@ main {
           flex: 1 1 25%;
 }
 
+.mainitem:nth-last-child() {
+  padding-right: 0;
+}
+
 .pbottom {
   display: inline-block;
   padding-top: 15px;
