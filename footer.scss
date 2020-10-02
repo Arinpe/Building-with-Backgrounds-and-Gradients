@@ -3,7 +3,7 @@
 footer {
   width: 80%;
   min-width: 1195px;
-  margin: 20px auto 25px auto;
+  margin: 10px auto 25px auto;
   display: flex;
   font-size: 10px;
   line-height: 1.5;
@@ -29,6 +29,7 @@ footer {
 .footer__left {
   display: inline-block;
   padding-right: 75px;
+  padding-top: 10px;
 }
 
 .bottomli {
@@ -40,8 +41,8 @@ footer {
   }
 }
 
-.leftborder {
-  border-left: 1px solid gray;
+.border {
+  border-right: 1px solid gray;
   padding-left: 5px;
   padding-right: 5px;
 }
