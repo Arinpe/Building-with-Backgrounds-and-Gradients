@@ -60,6 +60,7 @@ header {
 }
 
 .list:hover {
+	cursor: pointer;
   background: linear-gradient(
     to bottom,
     rgba(76, 76, 76, 1) 0%,
