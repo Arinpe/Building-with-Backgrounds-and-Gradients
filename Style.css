@@ -4,17 +4,36 @@
   width: 100%;
 }
 
-h1 {
+.texttop{
   font-size: 44px;
-}
-
-h2 {
-  font-size: 22px;
-}
-
-h3 {
-  font-size: 18px;
   font-family: "Montserrat", serif;
+  color: antiquewhite;
+  padding-bottom: 0;
+  line-height: 2;
+}
+
+.textmiddle {
+  width: 778px;
+  font-size: 25px;
+  font-family: "Montserrat", serif;
+  color: rgb(240, 219, 194);
+  line-height: 1.5;
+  text-align: center;
+}
+
+.textbottom {
+  padding-top: 40px;
+  font-family: "Montserrat", serif;
+  line-height: 2;
+}
+
+.textbottom:hover {
+  text-decoration: underline;
+}
+
+.clickable {
+  color: antiquewhite;
+  font-size: 18px;
 }
 
 header {
