@@ -17,13 +17,13 @@ h3 {
 }
 
 header {
-	display: flex;
-  	flex-direction: column;
- 	align-items: center; 
-   	width: 100%;
-	height: 67%; 
-	background-image: url("./img/applemain.jpg");
-	background-position: 50% 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: 67%;
+  background-image: url("./img/applemain.jpg");
+  background-position: 50% 100%;
 }
 
 .navbar {
@@ -68,7 +68,7 @@ header {
 }
 
 .list:hover:first-child {
-	border-radius: 5px 0 0 5px;
+  border-radius: 5px 0 0 5px;
 }
 
 .list:hover {
@@ -96,7 +96,7 @@ input {
   box-shadow: inset 0px 2px 2px rgb(27, 27, 27),
     inset 0px -2px 2px rgb(105, 102, 102);
   border-radius: 15px;
-  margin-top: 10px;
+  margin-top: 8px;
   margin-left: -25px;
   padding-left: 5px;
   padding-top: 3px;
@@ -112,3 +112,4 @@ input {
   color: rgb(228, 218, 218);
   text-shadow: 1px 1px gray;
 }
+

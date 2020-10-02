@@ -5,7 +5,7 @@
 # Building-with-Backgrounds-and-Gradients
 > This project is part of Microverse HTML/CSS curriculum
 
-![screenshot](./app_screenshot.png)
+![screenshot](./img/screenshot.png)
 
 The project is the fourth of the Microverse curriculum HTML/CSS module. 
 Project mirrors the old Apple.com page style with using images as background and linear gradient designed navigation.
@@ -15,9 +15,9 @@ See the source page below:
 ## Built With
 
 - HTML/CSS/SCSS
-- Fontawesome
-- Iconify
-- Colorzilla
+- Fontawesome library
+- Iconify library
+- Colorzilla CSS Gradients Generator
 
 ## Live Demo
 
@@ -42,9 +42,9 @@ To get a local copy up and running follow these simple example steps.
 ### Usage
 - Open index.html file in any modern browser
 ### Run tests
-- 
+- Tests passed can be found here (https://github.com/Arinpe/Building-with-Backgrounds-and-Gradients/pulls)
 ### Deployment
-
+- Page deployed through the Github pages service and can be viewed through the Live Demo Link (see above)
 
 
 ## Authors
@@ -65,7 +65,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/Arinpe/Building-with-Backgrounds-and-Gradients/issues).
 
 ## Show your support
 
@@ -74,8 +74,8 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
-- Inspiration
-- 
+- Thanks to Colorzilla by making designing easier
+- Thanks to stand-up team for raising issues and giving constructive critics out
 
 ## 📝 License
 
