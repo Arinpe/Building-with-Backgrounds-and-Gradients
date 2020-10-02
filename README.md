@@ -21,8 +21,7 @@ See the source page below:
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
+[Live Demo Link](https://rawcdn.githack.com/Arinpe/Building-with-Backgrounds-and-Gradients/8b01806d1ef404d5c3d331796301fe9a79466ce7/index.html)
 
 ## Getting Started
 
