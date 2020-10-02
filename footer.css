@@ -76,7 +76,7 @@ main {
           flex: 1 1 25%;
 }
 
-.mainitem:nth-last-child() {
+.mainitem:last-child {
   padding-right: 0;
 }
 

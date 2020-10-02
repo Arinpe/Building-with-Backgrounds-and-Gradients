@@ -63,7 +63,7 @@ main {
   height: 200px;
   flex: 1 1 25%;
   
-  &:nth-last-child() {
+  &:last-child {
     padding-right: 0;
   }
 }
