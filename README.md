@@ -14,7 +14,8 @@ See the source page below:
 
 ## Built With
 
-- HTML/CSS
+- HTML/CSS/SCSS
+- Fontawesome
 - Iconify
 - Colorzilla
 
@@ -25,22 +26,23 @@ See the source page below:
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+
+
 
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
+- Any PC or device with internet connection and ability to use command line terminal
 ### Setup
-
+- Open the command line terminal
 ### Install
-
+- Go to your preferred directory
+- Run [ git clone https://github.com/Arinpe/Building-with-Backgrounds-and-Gradients.git ] command
 ### Usage
-
+- Open index.html file in any modern browser
 ### Run tests
-
+- 
 ### Deployment
 
 
