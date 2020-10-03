@@ -1,0 +1,107 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto&display=swap");
+footer {
+  width: 80%;
+  min-width: 1195px;
+  margin: 10px auto 25px auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 10px;
+  line-height: 1.5;
+  font-family: "Roboto", "Montserrat", sans-serif;
+  color: #6e6e6e;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.footer__right {
+  display: block;
+  float: left;
+  padding-left: 1%;
+}
+
+.footer__right ul {
+  list-style-type: none;
+}
+
+.footer__right ul li {
+  display: inline-block;
+}
+
+.footer__left {
+  float: left;
+  display: block;
+  padding-right: 75px;
+  padding-top: 10px;
+}
+
+.bottomli {
+  display: inline-block;
+  color: #08c;
+}
+
+.bottomli:hover {
+  text-decoration: underline;
+}
+
+.border {
+  border-right: 1px solid gray;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.gap {
+  padding-right: 5px;
+}
+
+main {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.mainitem {
+  display: block;
+  margin-top: 1px;
+  margin-right: 2px;
+  width: 25%;
+  height: 200px;
+  -webkit-box-flex: 1;
+      -ms-flex: 1 1 25%;
+          flex: 1 1 25%;
+}
+
+.mainitem:last-child {
+  margin-right: 0;
+}
+
+.pbottom {
+  display: inline-block;
+  padding-top: 15px;
+}
+
+.img1 {
+  background: url("../img/apple1.jpg");
+  background-position: center;
+}
+
+.img2 {
+  background: url("../img/apple2.jpg");
+  background-position: center;
+}
+
+.img3 {
+  background: url("../img/apple3.jpg");
+  background-position: center;
+}
+
+.img4 {
+  background: url("../img/apple4.jpg");
+  background-position: center;
+}
+/*# sourceMappingURL=footer.css.map */
