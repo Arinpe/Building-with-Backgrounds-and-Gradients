@@ -16,11 +16,9 @@ footer {
 }
 
 .footer__right {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
+  display: block;
+  float: left;
   padding-left: 1%;
-  text-align: left;
 }
 
 .footer__right ul {
@@ -32,7 +30,8 @@ footer {
 }
 
 .footer__left {
-  display: inline-block;
+  float: left;
+  display: block;
   padding-right: 75px;
   padding-top: 10px;
 }
