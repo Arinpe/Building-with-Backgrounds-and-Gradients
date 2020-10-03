@@ -68,8 +68,8 @@ main {
 
 .mainitem {
   display: block;
-  padding-top: 2px;
-  padding-right: 2px;
+  margin-top: 1px;
+  margin-right: 2px;
   width: 25%;
   height: 200px;
   -webkit-box-flex: 1;
@@ -78,7 +78,7 @@ main {
 }
 
 .mainitem:last-child {
-  padding-right: 0;
+  margin-right: 0;
 }
 
 .pbottom {
@@ -88,17 +88,21 @@ main {
 
 .img1 {
   background: url("../img/apple1.jpg");
+  background-position: center;
 }
 
 .img2 {
   background: url("../img/apple2.jpg");
+  background-position: center;
 }
 
 .img3 {
   background: url("../img/apple3.jpg");
+  background-position: center;
 }
 
 .img4 {
   background: url("../img/apple4.jpg");
+  background-position: center;
 }
 /*# sourceMappingURL=footer.css.map */
